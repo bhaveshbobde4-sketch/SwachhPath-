@@ -1,0 +1,40 @@
+{
+  "dustbins": {
+    "dustbin_01": {
+      "name": "Dustbin 01",
+      "location": "College Main Gate",
+      "fillPercentage": 65,
+      "status": "ALMOST FULL",
+      "wetWaste": 65,
+      "dryWaste": 42,
+      "lidStatus": "CLOSED",
+      "alert": false,
+      "notification": "No collection required",
+      "mode": "DEMO"
+    },
+    "dustbin_02": {
+      "name": "Dustbin 02",
+      "location": "College Canteen",
+      "fillPercentage": 45,
+      "status": "PARTIALLY FILLED",
+      "wetWaste": 45,
+      "dryWaste": 30,
+      "lidStatus": "CLOSED",
+      "alert": false,
+      "notification": "No collection required",
+      "mode": "DEMO"
+    },
+    "dustbin_03": {
+      "name": "Dustbin 03",
+      "location": "College Parking",
+      "fillPercentage": 25,
+      "status": "EMPTY",
+      "wetWaste": 25,
+      "dryWaste": 20,
+      "lidStatus": "CLOSED",
+      "alert": false,
+      "notification": "No collection required",
+      "mode": "DEMO"
+    }
+  }
+}
